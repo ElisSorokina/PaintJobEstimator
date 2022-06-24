@@ -3,4 +3,4 @@ project(PaintJob)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(PaintJob main.cpp)
+add_executable(PaintJob paintEstimator.cpp)
